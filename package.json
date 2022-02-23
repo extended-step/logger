@@ -1,0 +1,22 @@
+{
+  "name": "@extended-step/logger",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/extended-step/logger"
+  },
+  "description": "Javascript (NodeJS) package to take logs.",
+  "author": {
+    "name": "David Kalmakoff",
+    "email": "extendedstep@gmail.com"
+  },
+  "main": "dist/index.js",
+  "scripts": {},
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}
